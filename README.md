@@ -1,24 +1,25 @@
-# Inverte-Quest
+# PortrAid - AI-Powered Portrait Composition Assistant
 
-A mobile-friendly application for identifying aquatic invertebrates, designed for students and researchers.
+PortrAid is a real-time AI-powered application that helps users improve their portrait photography by providing instant feedback on composition elements. Using advanced computer vision and deep learning techniques, it analyzes multiple aspects of portrait composition in real-time.
 
 ## Features
-- Real-time invertebrate identification through camera
-- Comprehensive species database with 13 aquatic invertebrates
-- Data collection and management system
-- Educational species guide
+
+- **Real-time Analysis**: Instant feedback on portrait composition
+- **Multi-Scale Evaluation**: Analyzes both micro and macro aspects of composition
+- **Professional Guidelines**: Based on established photography principles
+- **Composition Metrics**:
+  - Rule of Thirds
+  - Eye Line Positioning
+  - Leading Space
+  - Headroom
+  - Background Balance
+  - Overall Composition Score
 
 ## Installation
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Set up MongoDB connection in `.env` file
-4. Run: `streamlit run Home.py`
 
-## Usage
-Navigate to different sections using the sidebar:
-- Home: Take photos and get identifications
-- Species Guide: Browse detailed species information
-- Data Collection: Record and manage specimen data
+1. Clone the repository:
+git clone https://github.com/YourUsername/PortrAid.git
+cd PortrAid
 
 ## Model Download Link
 You will need to download the .pth file and add it to the root directory
