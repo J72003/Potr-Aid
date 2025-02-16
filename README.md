@@ -18,8 +18,11 @@ PortrAid is a real-time AI-powered application that helps users improve their po
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/J72003/PortrAid.git
+git clone https://github.com/J72003/PortrAid.git --> 
 cd PortrAid
+2. Install dependencies: `pip install -r requirements.txt`
+3. Download the Model from the google drive link to add it in the root directory
+4. Run: `streamlit run Potr-Aid.py`
 
 ## Model Download Link
 You will need to download the .pth file and add it to the root directory
