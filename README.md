@@ -19,3 +19,8 @@ Navigate to different sections using the sidebar:
 - Home: Take photos and get identifications
 - Species Guide: Browse detailed species information
 - Data Collection: Record and manage specimen data
+
+## Model Download Link
+You will need to download the .pth file and add it to the root directory
+Here is the link:
+- https://drive.google.com/drive/folders/1IF4PI7mRbqPSFQRziH8wGGCZK1zpwTbi?usp=drive_link
