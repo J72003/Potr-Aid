@@ -18,7 +18,7 @@ PortrAid is a real-time AI-powered application that helps users improve their po
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/PortrAid.git
+git clone https://github.com/J72003/PortrAid.git
 cd PortrAid
 
 ## Model Download Link
